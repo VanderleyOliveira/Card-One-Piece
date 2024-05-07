@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+
+body {
+    background-image: url(./imgs/wallpaper\ 01\ -\ mapa\ op.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:#ffffff;
+    background-color: #000000;
+
+}
+.card{
+    width: 250px;
+    border: solid 8px #000000;
+    border-radius: 8px;
+    margin: 80px 100px 0 100px;
+    background-color: #000000;
+    color: #ffffffff;
+    text-align: left;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
+
+.NomePersonagem{
+    background-color: #000000;
+    border: solid  #000000;
+    text-align: center;
+    color: #ffffff;
+    padding: 2px 0 4px 0;
+}
+
+.descricao{
+    padding: 4px 0 4px 8px;
+}
+
+textarea{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 250px;
+    height: 125px;
+    color:#ffffff;
+    background-color: #000000;
+}
